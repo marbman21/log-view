@@ -6,7 +6,7 @@
 MIRROR="http://www.log-view.com/"
 DOWNDIR="/var/lib/logview/"
 logviewfile="logview-current.tar.gz"
-logviewUrlFile="http://www.log-view.com/logview-current.tar.gz"
+logviewUrlFile="https://github.com/marbman21/log-view/raw/main/src/logview-current.tar.gz"
 logviewAddonFile="/usr/local/cpanel/whostmgr/docroot/cgi/logview/lview.cgi"
 logviewRegFile="/var/cpanel/apps/lview.conf"
 logviewOldFile="addon_lview.cgi"
